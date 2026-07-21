@@ -7,6 +7,7 @@ For *Globamart*, that story was $714.19M in revenue, 2.049K orders, and a supply
 I was asked to find out: _ What is causing delay in the sales
 
  *The Problem Statement*
+ ![Image alt](https://github.com/Horpeyhemi/GLOBAMART-ANALYSIS/blob/3f1da8b43c20d4b984076a0836f5cc539c0a3e84/GLOBAMART%20SUPPLY.png)
 
 The more Globamart is growing, he more the problems.
 - *Delivery Crisis*: Only *35% On-Time Delivery Rate* vs *65% Late Delivery Rate*
