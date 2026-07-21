@@ -36,6 +36,7 @@ Built:
 
 B. `Business Performance & Profitability Dashboard`
 Tracks how Sales was run:
+![image alt](https://github.com/Horpeyhemi/GLOBAMART-ANALYSIS/blob/ea4a0e783b79ecd52b32bfb227cb28e0254a0407/CORRECTED%20DASHBOARD.png)
 - Total Revenue: *$714.19M*
 - Total Profit: *$198.28M*
 - Profit Margin: *552.98%*
